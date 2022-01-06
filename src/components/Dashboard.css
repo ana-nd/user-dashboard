@@ -1,0 +1,27 @@
+.container {
+  padding: 16px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.active-user {
+  color: green;
+}
+
+.inactive-user {
+  color: red;
+}
+
+.search-area {
+  padding: 16px;
+  text-align: right;
+}
+
+.sort-icon {
+  display: flex;
+  justify-content: center;
+}
